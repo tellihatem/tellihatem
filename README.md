@@ -23,8 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tellihatem&show_icons=true&locale=en" alt="tellihatem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tellihatem&" alt="tellihatem" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tellihatem" alt="tellihatem" /></p>
 
-<img src="https://raw.githubusercontent.com/tellihatem/tellihatem/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
