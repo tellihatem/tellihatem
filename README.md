@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tellihatem&label=Profile%20views&color=0e75b6&style=flat" alt="tellihatem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=tellihatem](https://github-profile-trophy.vercel.app/?username=tellihatem&theme=onedark&rank=S,AAA,AA,A,B,C,SECRET)" alt="tellihatem" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tellihatem&theme=onedark&rank=S,AAA,AA,A,B,C,SECRET" alt="tellihatem" /></a> </p>
 
 - 🔭 I’m currently working on **THODZ Freelance.**
 
