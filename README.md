@@ -74,7 +74,7 @@
 </p>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tellihatem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tellihatem" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/tellihatem"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tellihatem" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tellihatem&" alt="tellihatem" /></p>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
