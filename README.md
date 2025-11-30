@@ -1,32 +1,36 @@
 <h1 align="center">Hi 👋, I'm Hatem Telli</h1>
 <h3 align="center">Software Engineer | Full Stack Development • Cybersecurity • AI & Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tellihatem&label=Profile%20views&color=0e75b6&style=flat" alt="tellihatem" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tellihatem&label=Profile%20views&color=0e75b6&style=flat" alt="tellihatem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tellihatem&theme=onedark&rank=S,AAA,AA,A,B,C,SECRET" alt="tellihatem" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tellihatem&theme=onedark&rank=S,AAA,AA,A,B,C,SECRET" alt="tellihatem" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **THODZ Freelance.**
 
-- 🌱 I’m currently learning **Advanced Cybersecurity Techniques**
-
-- 👯 I’m looking to collaborate on **AI-powered software solutions, full-stack applications, and cybersecurity-driven development projects.**
-
-- 📫 How to reach me **hatem.telli@etu.univ-batna2.dz**
-
+<p align="left">
+- 🔭 I’m currently working on **THODZ Freelance.**<br>
+- 🌱 I’m currently learning **Advanced Cybersecurity Techniques**<br>
+- 👯 I’m looking to collaborate on **AI-powered software solutions, full-stack applications, and cybersecurity-driven development projects.**<br>
+- 📫 How to reach me **hatem.telli@etu.univ-batna2.dz**<br>
 - ⚡ Fun fact **Problem solving isn’t just a skill for me it’s the part I enjoy the most.**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/tellihatem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tellihatem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tellihatem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tellihatem" height="30" width="40" /></a>
-<a href="https://kaggle.com/hatemtelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hatemtelli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tellihatem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tellihatem" height="30" width="40" /></a>
+<a href="https://dev.to/tellihatem" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tellihatem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tellihatem" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tellihatem" height="30" width="40" /></a>
+<a href="https://kaggle.com/hatemtelli" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hatemtelli" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tellihatem" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tellihatem" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com"   target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -74,7 +78,16 @@
 </p>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tellihatem"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tellihatem" /></a></p><br><br>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tellihatem">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tellihatem" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tellihatem&" alt="tellihatem" /></p>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tellihatem&" alt="tellihatem" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+</p>
