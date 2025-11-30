@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tellihatem&label=Profile%20views&color=0e75b6&style=flat" alt="tellihatem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tellihatem" alt="tellihatem" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=tellihatem](https://github-profile-trophy.vercel.app/?username=tellihatem&theme=onedark&rank=S,AAA,AA,A,B,C,SECRET)" alt="tellihatem" /></a> </p>
 
 - 🔭 I’m currently working on **THODZ Freelance.**
 
@@ -73,7 +73,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tellihatem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tellihatem" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tellihatem&" alt="tellihatem" /></p>
