@@ -2,6 +2,11 @@
 <h3 align="center">Software Engineer | Full Stack Development • Cybersecurity • AI & Machine Learning</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tellihatem&label=Profile%20views&color=0e75b6&style=flat" alt="tellihatem" /> </p>
+<p align="center">
+  <a href="https://tellihatem.github.io" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1E90FF?style=for-the-badge&logo=readme" alt="Visit my portfolio" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -17,12 +22,6 @@
 - 👯 I’m looking to collaborate on **AI-powered software solutions, full-stack applications, and cybersecurity-driven development projects.**<br>
 - 📫 How to reach me **hatem.telli@etu.univ-batna2.dz**<br>
 - ⚡ Fun fact **Problem solving isn’t just a skill for me it’s the part I enjoy the most.**
-</p>
-- 👨‍💻 All of my projects are available at 
-<p>
-  <a href="https://tellihatem.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1E90FF?style=for-the-badge&logo=readme" alt="Visit my portfolio" />
-  </a>
 </p>
 
 
