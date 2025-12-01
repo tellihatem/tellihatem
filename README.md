@@ -18,7 +18,13 @@
 - 📫 How to reach me **hatem.telli@etu.univ-batna2.dz**<br>
 - ⚡ Fun fact **Problem solving isn’t just a skill for me it’s the part I enjoy the most.**
 </p>
-- 👨‍💻 All of my projects are available at <a href="tellihatem.github.io">Portfolio</a>
+- 👨‍💻 All of my projects are available at 
+<p>
+  <a href="https://tellihatem.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1E90FF?style=for-the-badge&logo=readme" alt="Visit my portfolio" />
+  </a>
+</p>
+
 
 <!---------------------------------------------------------------------------------------------------->
 
