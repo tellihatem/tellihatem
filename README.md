@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tellihatem&label=Profile%20views&color=0e75b6&style=flat" alt="tellihatem" /> </p>
 <p align="center">
-  <a href="https://tellihatem.github.io" target="blank">
+  <a href="https://portfolio-khaki-eta-eqr8dhxgsg.vercel.app/en" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1E90FF?style=for-the-badge&logo=readme" alt="Visit my portfolio" />
   </a>
 </p>
