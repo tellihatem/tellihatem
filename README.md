@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tellihatem&theme=onedark&rank=S,AAA,AA,A,B,C,SECRET" alt="tellihatem" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=tellihatem&theme=onedark&rank=S,AAA,AA,A,B,SECRET" alt="tellihatem" />
   </a>
 </p>
 
